@@ -34,3 +34,9 @@ A 3-night atmospheric horror game built in Unity. Play as a tavern keeper servin
 - `EndingManager.cs` - Horror climax sequence
 
 Built for portfolio demonstration of Unity development skills.
+
+<img width="1436" height="802" alt="image" src="https://github.com/user-attachments/assets/41f0a041-7ab1-46e7-a108-9bac7c7a2802" />
+
+<img width="1437" height="805" alt="image" src="https://github.com/user-attachments/assets/621ac9be-c1ae-48e5-bd46-96ed8860b375" />
+
+
